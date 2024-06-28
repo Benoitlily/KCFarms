@@ -762,16 +762,21 @@
     padding-left: 10px;
     padding-right: 10px;
   }
-}.u-section-5 .u-sheet-1 {
+} .u-section-5 {
+  background-image: none;
+}
+
+.u-section-5 .u-sheet-1 {
   min-height: 400px;
 }
 
 .u-section-5 .u-layout-wrap-1 {
-  margin: 0 auto 0 20px;
+  min-height: 836px;
+  margin: 10px auto 10px 20px;
 }
 
 .u-section-5 .u-image-1 {
-  min-height: 423px;
+  min-height: 418px;
   background-image: url("https://images.unsplash.com/photo-1588597989061-b60ad0eefdbf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NzgzNjl8MHwxfHNlYXJjaHw0fHxwb3VsdHJ5fGVufDB8fHx8MTcxOTMyMjg1NHww&ixlib=rb-4.0.3&q=80&w=1080");
   background-position: 50% 50%;
 }
@@ -781,7 +786,7 @@
 }
 
 .u-section-5 .u-image-2 {
-  min-height: 423px;
+  min-height: 418px;
   background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url('https://images.unsplash.com/photo-1548550023-2bdb3c5beed7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NzgzNjl8MHwxfHNlYXJjaHwxfHxwb3VsdHJ5fGVufDB8fHx8MTcxOTMyMjg1NHww&ixlib=rb-4.0.3&q=80&w=1080');
   background-position: 50% 50%;
 }
@@ -799,7 +804,7 @@
 }
 
 .u-section-5 .u-image-3 {
-  min-height: 423px;
+  min-height: 418px;
   background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url('https://images.unsplash.com/photo-1589922583749-6b8473a85048?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NzgzNjl8MHwxfHNlYXJjaHwyfHxwb3VsdHJ5fGVufDB8fHx8MTcxOTMyMjg1NHww&ixlib=rb-4.0.3&q=80&w=1080');
   background-position: 50% 50%;
 }
@@ -817,7 +822,7 @@
 }
 
 .u-section-5 .u-image-4 {
-  min-height: 423px;
+  min-height: 418px;
   background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url('https://images.unsplash.com/photo-1538170989343-ce003278e1a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NzgzNjl8MHwxfHNlYXJjaHwzfHxwb3VsdHJ5fGVufDB8fHx8MTcxOTMyMjg1NHww&ixlib=rb-4.0.3&q=80&w=1080');
   background-position: 50% 50%;
 }
@@ -835,7 +840,7 @@
 }
 
 .u-section-5 .u-image-5 {
-  min-height: 423px;
+  min-height: 418px;
   background-image: url("https://images.unsplash.com/photo-1556316918-b8b177b155cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NzgzNjl8MHwxfGNvbGxlY3Rpb258MXxiT2ZUcFlzcHJtTXx8fHx8Mnx8MTcxOTMyMjg1NHw&ixlib=rb-4.0.3&q=80&w=1080");
   background-position: 50% 50%;
 }
@@ -856,8 +861,13 @@
   }
 
   .u-section-5 .u-layout-wrap-1 {
+    min-height: 471px;
     margin-right: initial;
     margin-left: initial;
+  }
+
+  .u-section-5 .u-image-1 {
+    min-height: 423px;
   }
 
   .u-section-5 .u-image-2 {
@@ -879,7 +889,7 @@
   }
 
   .u-section-5 .u-image-4 {
-    min-height: 349px;
+    min-height: 345px;
   }
 
   .u-section-5 .u-container-layout-4 {
@@ -901,6 +911,12 @@
     min-height: 88px;
   }
 
+  .u-section-5 .u-layout-wrap-1 {
+    min-height: 66px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
   .u-section-5 .u-container-layout-1 {
     padding-left: 30px;
     padding-right: 30px;
@@ -917,7 +933,7 @@
   }
 
   .u-section-5 .u-image-4 {
-    min-height: 267px;
+    min-height: 264px;
   }
 
   .u-section-5 .u-container-layout-4 {
@@ -940,6 +956,12 @@
     min-height: 1657px;
   }
 
+  .u-section-5 .u-layout-wrap-1 {
+    min-height: 1419px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
   .u-section-5 .u-container-layout-1 {
     padding-left: 10px;
     padding-right: 10px;
@@ -956,7 +978,7 @@
   }
 
   .u-section-5 .u-image-4 {
-    min-height: 601px;
+    min-height: 594px;
   }
 
   .u-section-5 .u-container-layout-4 {
@@ -975,8 +997,14 @@
     min-height: 877px;
   }
 
+  .u-section-5 .u-layout-wrap-1 {
+    min-height: 429px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
   .u-section-5 .u-image-4 {
-    min-height: 378px;
+    min-height: 374px;
   }
 
   .u-section-5 .u-image-5 {
@@ -1167,8 +1195,8 @@
 }
 
 .u-section-7 .u-layout-wrap-1 {
-  margin-top: 0;
-  margin-bottom: 0;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .u-section-7 .u-layout-cell-1 {
@@ -1550,6 +1578,10 @@
 @media (max-width: 575px) {
    .u-section-7 {
     min-height: 1565px;
+  }
+
+  .u-section-7 .u-layout-wrap-1 {
+    margin-bottom: 0;
   }
 
   .u-section-7 .u-layout-cell-1 {
